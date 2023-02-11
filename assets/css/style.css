@@ -39,3 +39,19 @@ header{
     background-size: cover;
     background-position: center; */
   }
+  
+main {
+  align-items: center;
+  text-align: center;
+  }
+  .norm img {
+    height: 505%;
+    width: 18%;
+  }
+  .norm h2 {
+    /* background-color: blue; */
+    font-size: 45px;
+  }
+  .norm p {
+    font-size: 20px;
+  }
