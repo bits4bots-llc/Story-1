@@ -1,6 +1,41 @@
-header {
-    display: flex;
-    flex-direction: row;
-    text-align: center;
-    color: blue;
+header{
+  
+  /* display: flex;
+    flex-direction: row; */
+    /* margin: 0 0 0 0; */
+    /* border: .5; */
+    padding: 0.5%;
+    background-color: rgb(86, 206, 202);    
+  }
+  header h1 {
+      text-align: center;
+      font-size: 50px;
+      color: white
+          
+    }
+    header img {
+      height: 45px;
+      width:45px
+    }
+    header nav {
+      text-align: center;
+    }
+    header nav ul li {
+      padding-right: 7%;
+      padding-left: 7%;
+      display: inline-block;
+     font-size: 25px;
+     color: white
+  }
+
+  .hero {
+    padding: 0;
+    margin: 0;
+    height: 500px;
+    width: 1800px;
+    margin-bottom: 25px;
+    align-items: center;
+    /* background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center; */
   }
